@@ -1,0 +1,3 @@
+
+Copyright (c) 2025 Anton Dovgopol. All rights reserved.
+Usage is strictly under license. Commercial use without explicit agreement is prohibited.

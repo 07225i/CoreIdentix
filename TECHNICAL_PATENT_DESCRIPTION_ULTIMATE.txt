@@ -1,0 +1,8 @@
+
+TECHNICAL PATENT DESCRIPTION - ULTIMATE VERSION
+
+- SHA-256 DNA Token with random salt
+- HMAC signature for authentication
+- DRM device GUID check demonstration
+- IPFS hash simulation to anchor tokens
+- Architecture includes SHA256, BLAKE3, Argon2, DID JSON-LD, embedding fingerprints and steganography placeholder
